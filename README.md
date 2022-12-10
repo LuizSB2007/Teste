@@ -33,3 +33,12 @@ Para voltar em algum commit:
 Para criar uma nova branch:
 
 ``` git checkout -b "nome" ```
+
+Para mudar de branch:
+
+``` git switch "branch" ```
+
+Para passar os arquivos de uma branch para outra:
+
+``` git merge "branch dos arquivos" ```
+
