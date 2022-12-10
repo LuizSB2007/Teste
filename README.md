@@ -25,3 +25,7 @@ Para mandar para a origem:
 Para ver se necessita atualizar o repositorio:
 
 ``` git status ```
+
+Para voltar em algum commit:
+
+``` git restore --source "tag: e0ffc6ffc60d8a91ce4143ac528ff8c5e902803e" "nome do arquivo ou '.' (todos)"```
