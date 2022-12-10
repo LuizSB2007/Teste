@@ -4,4 +4,4 @@
 
 Para inicar o app.js digite:
 
-``` npm app.js ```
+```   node app.js   ```
