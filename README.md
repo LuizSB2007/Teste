@@ -29,3 +29,7 @@ Para ver se necessita atualizar o repositorio:
 Para voltar em algum commit:
 
 ``` git restore --source "tag: e0ffc6ffc60d8a91ce4143ac528ff8c5e902803e" "nome do arquivo ou '.' (todos)"```
+
+Para criar uma nova branch:
+
+``` git checkout -b "nome" ```
